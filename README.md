@@ -36,7 +36,7 @@
 <br />
 
 
-<a href="https://www.linkedin.com/in/tmelih/">
+<a href="https://www.linkedin.com/in/tmelih/ "target="_blank">
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="right" />
 </a>
 <a href="mailto: t.melihcitil@gmail.com"">
